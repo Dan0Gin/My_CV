@@ -19,7 +19,7 @@ html {
 /* замена изображения курсора при наведения на ссылки*/
 .mario-img,
 a {
-   cursor: url("../image/cuesor_on_link.png") 18 0, auto;
+   cursor: url("../image/van.png") 18 0, auto;
 }
 
 /* установка шрифта для всего документа */
