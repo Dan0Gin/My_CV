@@ -1,7 +1,7 @@
-name: Telegram и HTML5-Valihrrthhtrhrhhrtthrrthrthhtdator
+name: Telegram и HTML5-Validator
 on:
   push:
-    branches:rthrhrt
+    branches:
       - main
   pull_request:
     types: [opened, reopened]
